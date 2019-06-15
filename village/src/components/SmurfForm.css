@@ -1,0 +1,31 @@
+.SmurfForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    margin: 10px;
+    width: 250px;
+    height: 30px;
+}
+
+.age {
+    margin: 10px;
+    width: 250px;
+    height: 30px;
+}
+
+.height {
+    margin: 10px;
+    width: 250px;
+    height: 30px;
+}
+
+.formButton {
+    margin: 10px;
+    width: 150px;
+    height: 35px;
+    background-color: blue;
+    color: #fff;
+    font-size: 1em;
+}
