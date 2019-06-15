@@ -1,3 +1,27 @@
 .App {
   text-align: center;
 }
+
+.navLinks {
+  margin: 10px;
+  /* background-color: White;
+  width: 20%;
+  text-align: center;
+  margin: auto; */
+}
+
+.homeLink{
+  margin: 10px;
+  width: 20px;
+  height: 20px;
+  color: #fff;
+  font-size: 2rem;
+}
+
+.formLink{
+  margin: 10px;
+  width: 20px;
+  height: 20px;
+  color: #fff;
+  font-size: 2rem;
+}
